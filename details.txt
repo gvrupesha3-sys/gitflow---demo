@@ -1,6 +1,0 @@
-GitFlow Demonstration
-
-Project: GitFlow Demo
-Feature: My Change
-Description: Demonstrating Git branching, modification,
-commit, push, code review and merge.
