@@ -1,3 +1,4 @@
-Student Login Feature
-Username: pes1pg25ca066 
-Authentication: Enabledgit branch -d feature/student-registration 
+Student Login Feature 
+Username:pes1pg25ca066  
+Authentication: Fixed 
+Security: Updated 
